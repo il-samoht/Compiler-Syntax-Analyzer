@@ -1,0 +1,46 @@
+Compilation Exception
+	Caused by File "Programs Folder/program2", line/char 1 in <statement part>
+	Caused by File "Programs Folder/program2", line/char 1: expected "begin" symbol found "IDENTIFIER" symbol instead
+
+Compilation Exception
+	Caused by File "Programs Folder/program3", line/char 2 in <statement part>
+	Caused by File "Programs Folder/program3", line/char 3 in <statement list>
+	Caused by File "Programs Folder/program3", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program3", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program3", line/char 4 in <statement>
+	Caused by File "Programs Folder/program3", line/char 11 in <if statement>
+	Caused by File "Programs Folder/program3", line/char 11: expected "if" symbol found "EOF" symbol instead
+
+Compilation Exception
+	Caused by File "Programs Folder/program4", line/char 2 in <statement part>
+	Caused by File "Programs Folder/program4", line/char 3 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 4 in <statement>
+	Caused by File "Programs Folder/program4", line/char 5 in <while statement>
+	Caused by File "Programs Folder/program4", line/char 6 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 7 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 7 in <statement list>
+	Caused by File "Programs Folder/program4", line/char 7 in <statement>
+	Caused by File "Programs Folder/program4" line/char 7: expected <AssignmentStatement> or <IfStatement> or <WhileStatement> or <ProcedureStatement> or <UntilStatement> or <ForStatement> found "end" symbol instead
+
+Compilation Exception
+	Caused by File "Programs Folder/program5", line/char 2 in <statement part>
+	Caused by File "Programs Folder/program5", line/char 3 in <statement list>
+	Caused by File "Programs Folder/program5", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program5", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program5", line/char 4 in <statement>
+	Caused by File "Programs Folder/program5", line/char 7 in <while statement>
+	Caused by File "Programs Folder/program5", line/char 7: expected "loop" symbol found ";" symbol instead
+
+Compilation Exception
+	Caused by File "Programs Folder/program7", line/char 2 in <statement part>
+	Caused by File "Programs Folder/program7", line/char 3 in <statement list>
+	Caused by File "Programs Folder/program7", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program7", line/char 4 in <statement list>
+	Caused by File "Programs Folder/program7", line/char 4 in <statement>
+	Caused by File "Programs Folder/program7" line/char 4: expected <AssignmentStatement> or <IfStatement> or <WhileStatement> or <ProcedureStatement> or <UntilStatement> or <ForStatement> found "else" symbol instead
+
+Compilation Exception
+	Caused by File "Programs Folder/program8", line/char 12: expected "EOF" symbol found "call" symbol instead
+
